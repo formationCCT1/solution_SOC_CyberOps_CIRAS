@@ -8,7 +8,6 @@ Documentation pour la mise en place d'une solution SOC dans le cadre de la forma
 - [Configuration](#configuration)
 - [Utilisation](#utilisation)
 - [Contributeurs](#contributeurs)
-2. Ajouter les sections nécessaires :
 ## Introduction
 Ce projet vise à documenter et automatiser la mise en place d'une solution SOC pour la formation CyberOps au CIRAS.
 ## Prérequis
@@ -46,3 +45,4 @@ Ce projet vise à documenter et automatiser la mise en place d'une solution SOC 
 - splunk_config.conf : Fichier de configuration pour Splunk.
 - elk_config.yml : Fichier de configuration pour ELK Stack.
 - alerts_config.json : Fichier de configuration pour les alertes.
+
