@@ -1,8 +1,6 @@
 # solution_SOC_CyberOps_CIRAS 
 ## Phase 1 du Projet 
 Documentation pour la mise en place d'une solution SOC dans le cadre de la formation CyberOps au CIRAS.
-##Solution_CyberOps-SOC-Setup
-- Ce répertoire contiendra la documentation et les scripts nécessaires pour mettre en place une solution SOC dans le cadre de la formation CyberOps.
 ## Table des Matière
 - [Introduction](#introduction)
 - [Prérequis](#prérequis)
