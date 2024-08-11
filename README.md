@@ -1,15 +1,8 @@
-# solution_SOC_CyberOps_CIRAS
+# solution_SOC_CyberOps_CIRAS 
 ## Phase 1 du Projet 
-Documentation pour la mise en place d'une solution SOC dans le cadre de la formation CyberOps
-## Phase 2 du projet (Structurer le Répertoire)
-1. Créer des dossiers pour organiser les documents :
-- README.md : Fichier principal pour une vue d'ensemble du projet.
-- docs/ : Dossier pour les documents de configuration et les guides.
-- scripts/ : Dossier pour les scripts d'installation et de configuration.
-## Phase 3 du projet (Rédiger le README.md)
-1. Rédiger le README.md
-#Solution_CyberOps-SOC-Setup
-Ce répertoire contient la documentation et les scripts nécessaires pour mettre en place une solution SOC dans le cadre de la formation CyberOps.
+Documentation pour la mise en place d'une solution SOC dans le cadre de la formation CyberOps au CIRAS.
+##Solution_CyberOps-SOC-Setup
+- Ce répertoire contiendra la documentation et les scripts nécessaires pour mettre en place une solution SOC dans le cadre de la formation CyberOps.
 ## Table des Matière
 - [Introduction](#introduction)
 - [Prérequis](#prérequis)
@@ -40,17 +33,17 @@ Ce projet vise à documenter et automatiser la mise en place d'une solution SOC 
 - Exemples de scénarios d'utilisation.
 ## Contributeurs
 - Liste des contributeurs au projet.
-## Phase 4 du projet (Ajouter des Documents de Configuration)
+## Phase 2 du projet (Ajouter des Documents de Configuration)
 1. Créer des fichiers de documentation dans le dossier docs/ :
 - installation.md : Guide d'installation détaillé.
 - configuration.md : Guide de configuration détaillé.
 - usage.md : Guide d'utilisation détaillé.
-##Phase 5 du projet (Ajouter des Scripts d'Installation et de Configuration)
+##Phase 3 du projet (Ajouter des Scripts d'Installation et de Configuration)
 1. Créer des scripts dans le dossier scripts/ :
 - install_splunk.sh : Script pour installer Splunk.
 - configure_elk.sh : Script pour configurer ELK Stack.
 - setup_alerts.sh : Script pour configurer les alertes.
-##Phase 6 du projet (Ajouter des Fichiers de Configuration)
+##Phase 4 du projet (Ajouter des Fichiers de Configuration)
 1. Créer des fichiers de configuration dans le dossier config/ :
 - splunk_config.conf : Fichier de configuration pour Splunk.
 - elk_config.yml : Fichier de configuration pour ELK Stack.
